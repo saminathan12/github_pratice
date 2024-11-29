@@ -5,6 +5,7 @@ public class index {
         System.out.println("hello");
         int a = 10;
         int b= 20;
-        System.out.print(a+b);
+        c= a+b;
+        System.out.print(c);
     }
 }
