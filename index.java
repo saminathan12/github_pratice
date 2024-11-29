@@ -8,5 +8,7 @@ public class index {
         int b= 20;
         int c =a+b;
         System.out.print(c);
+        String s = "deepak";
+        system.out.print(s);
     }
 }
