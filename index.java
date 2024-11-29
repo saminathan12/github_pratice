@@ -9,6 +9,6 @@ public class index {
         int c =a+b;
         System.out.print(c);
         String s = "deepak";
-        system.out.print(s);
+        System.out.println(s);
     }
 }
